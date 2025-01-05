@@ -26,9 +26,9 @@ export default function Vote() {
         currentRound: {
             endsIn: '7 days',
             totalVotingPower: '703,596,511',
-            totalFees: '-$7,155,642',
-            totalIncentives: '-$32,064',
-            totalRewards: '-$7,187,707',
+            totalFees: '$7,155,642',
+            totalIncentives: '$32,064',
+            totalRewards: '$7,187,707',
             newEmissions: '8,069,149'
         }
     };
